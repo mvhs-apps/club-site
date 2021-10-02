@@ -1,3 +1,4 @@
+// To run: cd into data folder and run node parse.js
 const parse = require('csv-parse/lib/sync')
 const assert = require('assert')
 const fs = require('fs')
